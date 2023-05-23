@@ -11,7 +11,7 @@ import SwiftUI
 struct DaysSinceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DaysSinceView()
         }
     }
 }
