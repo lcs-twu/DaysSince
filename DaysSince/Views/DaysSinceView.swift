@@ -11,8 +11,14 @@ struct DaysSinceView: View {
     var body: some View {
         VStack{
             HStack{
-                Text("testing1")
-                Text("testing3")
+                VStack{
+                    Text("testing1")
+                    Text("testing4")
+                }
+                VStack{
+                    Text("testing3")
+                    Text("testing5")
+                }
             }
             Text("testing2")
         }
