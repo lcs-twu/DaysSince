@@ -14,12 +14,12 @@ struct DaysSinceView: View {
                 VStack{
                     Text("testing1")
                         .font(.system(size: 24, design: .rounded))
-                         .padding().background(Color.white)
+                         .padding().background(Color.pink)
                          .cornerRadius(8)
                          .shadow(radius: 1, y: 1)
                     Text("testing4")
                         .font(.system(size: 24, design: .rounded))
-                         .padding().background(Color.white)
+                         .padding().background(Color.red)
                          .cornerRadius(8)
                          .shadow(radius: 1, y: 1)
                 }
