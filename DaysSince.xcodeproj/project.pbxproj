@@ -12,6 +12,7 @@
 		81671E3E2A1D3D7600F5FB5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81671E3D2A1D3D7600F5FB5B /* Preview Assets.xcassets */; };
 		81671E452A1D3D8D00F5FB5B /* BeforeIWrite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81671E442A1D3D8C00F5FB5B /* BeforeIWrite.swift */; };
 		81671E472A1D3EA800F5FB5B /* DaysSinceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81671E462A1D3EA800F5FB5B /* DaysSinceView.swift */; };
+		81671E4A2A1D44BC00F5FB5B /* TestingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81671E492A1D44BC00F5FB5B /* TestingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		81671E3D2A1D3D7600F5FB5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		81671E442A1D3D8C00F5FB5B /* BeforeIWrite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeforeIWrite.swift; sourceTree = "<group>"; };
 		81671E462A1D3EA800F5FB5B /* DaysSinceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaysSinceView.swift; sourceTree = "<group>"; };
+		81671E492A1D44BC00F5FB5B /* TestingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				81671E362A1D3D7400F5FB5B /* DaysSinceApp.swift */,
 				81671E482A1D3ED000F5FB5B /* Views */,
 				81671E442A1D3D8C00F5FB5B /* BeforeIWrite.swift */,
+				81671E492A1D44BC00F5FB5B /* TestingView.swift */,
 				81671E3A2A1D3D7600F5FB5B /* Assets.xcassets */,
 				81671E3C2A1D3D7600F5FB5B /* Preview Content */,
 			);
@@ -150,6 +153,7 @@
 			files = (
 				81671E452A1D3D8D00F5FB5B /* BeforeIWrite.swift in Sources */,
 				81671E372A1D3D7400F5FB5B /* DaysSinceApp.swift in Sources */,
+				81671E4A2A1D44BC00F5FB5B /* TestingView.swift in Sources */,
 				81671E472A1D3EA800F5FB5B /* DaysSinceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
